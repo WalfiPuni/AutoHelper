@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AutoHelper</string>
+    <string name="name_detail">Name Detail</string>
+    <string name="name">Name</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="signin">Sign In</string>
+    <string name="notes">Notes</string>
+    <string name="profile">Profile</string>
+    <string name="new_note">New</string>
+    <string name="save">Save</string>
+    <string name="signup">Sign Up</string>
+    <string name="logout">Log out</string>
+    <string name="mileage">Mileage</string>
+    <string name="description">Description</string>
+    <string name="success_signUp">Registration was successful</string>
+    <string name="login_busy">User with this Login already exists</string>
+    <string name="success_signIn">Invalid username or password</string>
+    <string name="success_update">Update was successful</string>
+    <string name="success_save">The save was successful. Go to the notes page to see the list of notes</string>
+    <string name="enter_signIn_data">Enter your username and password</string>
+    <string name="validate_save">All fields must be filled in</string>
+</resources>
